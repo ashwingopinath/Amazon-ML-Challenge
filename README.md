@@ -1,5 +1,5 @@
 # Amazon-ML-Challenge
-Classification model in Python using Fasttext, that categorizes products using metadata into 9919 browse nodes with 63.22% accuracy.
+Classification model in Python using Fasttext, that categorizes products using metadata into 9919 browse nodes with 63.22% test accuracy on the competition test set.
 Data Preprocessing is done using NLP to optimize training results.
 
 
